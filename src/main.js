@@ -55,10 +55,18 @@ new Vue({
 //Lesson 11. Passing Data Up Using Scoped Slots
 //https://codesandbox.io/s/nwz1xpkyl0?from-embed
 
+//Lesson 12. Render Functions 101
 //https://codesandbox.io/s/5vxlz052px?from-embed
+
+//Lesson 13. Render Functions and Components
 //https://codesandbox.io/s/k05o3npx25?from-embed
+
+//Lesson 14. Render Functions and Children
 //https://codesandbox.io/s/7w1pr58p6x?from-embed
+
+//Lesson 15. Render Functions and Slots
 //https://codesandbox.io/s/z2k1j94o8m?from-embed
+
 //https://codesandbox.io/s/nk9qr8yz0p?from-embed
 //https://codesandbox.io/s/x1z0myl0p?from-embed
 //https://codesandbox.io/s/k96ljlz7yv?from-embed

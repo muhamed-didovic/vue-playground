@@ -16,6 +16,11 @@ import WrapperLesson8 from '../components/Lesson8/WrapperLesson8.vue'
 import WrapperLesson9 from '../components/Lesson9/WrapperLesson9.vue'
 import WrapperLesson10 from '../components/Lesson10/WrapperLesson10.vue'
 import WrapperLesson11 from '../components/Lesson11/WrapperLesson11.vue'
+import WrapperLesson12 from '../components/Lesson12/WrapperLesson12.vue'
+import WrapperLesson13_1 from '../components/Lesson13/WrapperLesson13_1.vue'
+import WrapperLesson13_2 from '../components/Lesson13/WrapperLesson13_2.vue'
+import WrapperLesson14 from '../components/Lesson14/WrapperLesson14.vue'
+import WrapperLesson15 from '../components/Lesson15/WrapperLesson15.vue'
 
 Vue.use(Router)
 
@@ -27,59 +32,84 @@ export default new Router({
       component: home
     },
     {
-      path: '/lesson1',
+      path: '/1',
       name: 'lesson1',
       component: UserSettingsFormWrapperLesson1
     },
     {
-      path: '/lesson2',
+      path: '/2',
       name: 'lesson2',
       component: UserSettingsFormWrapperLesson2
     },
     {
-      path: '/lesson3',
+      path: '/3',
       name: 'lesson3',
       component: DatePickerWrapper
     },
     {
-      path: '/lesson4',
+      path: '/4',
       name: 'lesson4',
       component: AnnouncementModalLesson4Wrapper
     },
     {
-      path: '/lesson5',
+      path: '/5',
       name: 'lesson5',
       component: WrapperLesson5
     },
     {
-      path: '/lesson6',
+      path: '/6',
       name: 'lesson6',
       component: WrapperLesson6
     },
     {
-      path: '/lesson7',
+      path: '/7',
       name: 'lesson7',
       component: WrapperLesson7
     },
     {
-      path: '/lesson8',
+      path: '/8',
       name: 'lesson8',
       component: WrapperLesson8
     },
     {
-      path: '/lesson9',
+      path: '/9',
       name: 'lesson9',
       component: WrapperLesson9
     },
     {
-      path: '/lesson10',
+      path: '/10',
       name: 'lesson10',
       component: WrapperLesson10
     },
     {
-      path: '/lesson11',
+      path: '/11',
       name: 'lesson11',
       component: WrapperLesson11
+    },
+    {
+      path: '/12',
+      name: 'lesson12',
+      component: WrapperLesson12
+    },
+    {
+      path: '/13-1',
+      name: 'lesson13-1',
+      component: WrapperLesson13_1
+    },
+    {
+      path: '/13-2',
+      name: 'lesson13-2',
+      component: WrapperLesson13_2
+    },
+    {
+      path: '/14',
+      name: 'lesson14',
+      component: WrapperLesson14
+    },
+    {
+      path: '/15',
+      name: 'lesson15',
+      component: WrapperLesson15
     }
   ]
 })

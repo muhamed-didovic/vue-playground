@@ -23,37 +23,52 @@
             <router-link class="nav-link" to="/home">Home</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/lesson1">Lesson1</router-link>
+            <router-link class="nav-link" to="/1">1</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/lesson2">Lesson2</router-link>
+            <router-link class="nav-link" to="/2">2</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/lesson3">Lesson3</router-link>
+            <router-link class="nav-link" to="/3">3</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/lesson4">Lesson4</router-link>
+            <router-link class="nav-link" to="/4">4</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/lesson5">Lesson5</router-link>
+            <router-link class="nav-link" to="/5">5</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/lesson6">Lesson6</router-link>
+            <router-link class="nav-link" to="/6">6</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/lesson7">Lesson7</router-link>
+            <router-link class="nav-link" to="/7">7</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/lesson8">Lesson8</router-link>
+            <router-link class="nav-link" to="/8">8</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/lesson9">Lesson9</router-link>
+            <router-link class="nav-link" to="/9">9</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/lesson10">Lesson10</router-link>
+            <router-link class="nav-link" to="/10">10</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/lesson11">Lesson11</router-link>
+            <router-link class="nav-link" to="/11">11</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/12">12</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/13-1">13-1</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/13-2">13-2</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/14">14</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/15">15</router-link>
           </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
@@ -74,33 +89,7 @@
 
 <script>
 export default {
-  name: 'app',
-  // data() {
-  //   return {
-  //     date: '2018-04-12',
-  //     modalOpen: false,
-  //     accountId: 7,
-  //     showAnnouncement: false,
-  //     showAnnouncementLesson10: false //true
-  //   }
-  // },
-  components: {
-    // UserSettingsForm,
-    // UserSettingsFormStart,
-    // DatePicker,
-    // AnnouncementModal,
-    // AnnouncementScrollingModal,
-    // UserSettingsFormPortal,
-    // UserSettingsFormReusablePortals,
-    // AnnouncementModalReusablePortals,
-    // PrimaryButton,
-    // MediaCard,
-    // UserSettingsFormLesson9,
-    // AnnouncementModalLesson9,
-    // UserSettingsFormLesson10,
-    // AnnouncementModalLesson10,
-    // ContactListLesson11
-  }
+  name: 'app'
 }
 </script>
 
