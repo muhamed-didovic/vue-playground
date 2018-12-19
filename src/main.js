@@ -67,6 +67,7 @@ new Vue({
 //Lesson 15. Render Functions and Slots
 //https://codesandbox.io/s/z2k1j94o8m?from-embed
 
+//Lesson 16. Data Provider Components
 //https://codesandbox.io/s/nk9qr8yz0p?from-embed
 //https://codesandbox.io/s/x1z0myl0p?from-embed
 //https://codesandbox.io/s/k96ljlz7yv?from-embed

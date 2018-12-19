@@ -70,6 +70,18 @@
           <li class="nav-item">
             <router-link class="nav-link" to="/15">15</router-link>
           </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/16">16</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/17">17</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/18">18</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/19">19</router-link>
+          </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
           <input

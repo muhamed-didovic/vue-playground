@@ -21,6 +21,7 @@ import WrapperLesson13_1 from '../components/Lesson13/WrapperLesson13_1.vue'
 import WrapperLesson13_2 from '../components/Lesson13/WrapperLesson13_2.vue'
 import WrapperLesson14 from '../components/Lesson14/WrapperLesson14.vue'
 import WrapperLesson15 from '../components/Lesson15/WrapperLesson15.vue'
+import WrapperLesson16 from '../components/Lesson16/WrapperLesson16.vue'
 
 Vue.use(Router)
 
@@ -110,6 +111,11 @@ export default new Router({
       path: '/15',
       name: 'lesson15',
       component: WrapperLesson15
+    },
+    {
+      path: '/16',
+      name: 'lesson16',
+      component: WrapperLesson16
     }
   ]
 })
