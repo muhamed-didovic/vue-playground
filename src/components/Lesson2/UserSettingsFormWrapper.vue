@@ -1,7 +1,7 @@
 <template>
   <!--
     sometimes we can add class conditionally like this:
-    :class="{'modal-opem':modalOpen}"
+    :class="{'modal-open':modalOpen}"
   -->
 
   <!-- <img alt="Vue logo" src="./assets/logo.png"> -->

@@ -69,10 +69,19 @@ new Vue({
 
 //Lesson 16. Data Provider Components
 //https://codesandbox.io/s/nk9qr8yz0p?from-embed
+
+//Lesson 17. Getting Started with Renderless Components
 //https://codesandbox.io/s/x1z0myl0p?from-embed
+
+//Lesson 18. Passing Data Props
 //https://codesandbox.io/s/k96ljlz7yv?from-embed
+
+//Lesson 19. Passing Action Props
 //https://codesandbox.io/s/9l2jwy14mp?from-embed
+
+//Lesson 20. Passing Binding Props
 //https://codesandbox.io/s/l5yoxyv02q?from-embed
+
 //https://codesandbox.io/s/kn1nv6ypv?from-embed
 //https://codesandbox.io/s/1r789z3nnl?from-embed
 //https://codesandbox.io/s/l9v91jn0zq?from-embed
