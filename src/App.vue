@@ -82,6 +82,24 @@
           <li class="nav-item">
             <router-link class="nav-link" to="/19">19</router-link>
           </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/20">20</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/21">21</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/22">22</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/23">23</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/24">24</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/25">25</router-link>
+          </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
           <input

@@ -82,10 +82,18 @@ new Vue({
 //Lesson 20. Passing Binding Props
 //https://codesandbox.io/s/l5yoxyv02q?from-embed
 
+//Lesson 21. Using Functions as Binding Props
 //https://codesandbox.io/s/kn1nv6ypv?from-embed
+
+//Lesson 22. Implementing Alternate Layouts with Renderless Components
 //https://codesandbox.io/s/1r789z3nnl?from-embed
+
+//Lesson 23. Configuring Renderless Components
 //https://codesandbox.io/s/l9v91jn0zq?from-embed
+
+//Lesson 24. Wrapping Renderless Components
 //https://codesandbox.io/s/5z5056yoq4?from-embed
+
 //https://codesandbox.io/s/20r8wnx44r?from-embed
 //https://codesandbox.io/s/jl6pz69ox3?from-embed
 //https://codesandbox.io/s/o98y1l735y?from-embed
