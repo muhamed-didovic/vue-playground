@@ -30,6 +30,12 @@ import WrapperLesson21 from '../components/Lesson21/WrapperLesson21.vue'
 import WrapperLesson22 from '../components/Lesson22/WrapperLesson22.vue'
 import WrapperLesson23 from '../components/Lesson23/WrapperLesson23.vue'
 import WrapperLesson24 from '../components/Lesson24/WrapperLesson24.vue'
+import WrapperLesson25 from '../components/Lesson25/WrapperLesson25.vue'
+import WrapperLesson26 from '../components/Lesson26/WrapperLesson26.vue'
+import WrapperLesson27 from '../components/Lesson27/WrapperLesson27.vue'
+import WrapperLesson28 from '../components/Lesson28/WrapperLesson28.vue'
+import WrapperLesson29 from '../components/Lesson29/WrapperLesson29.vue'
+
 
 Vue.use(Router)
 
@@ -164,6 +170,31 @@ export default new Router({
       path: '/24',
       name: 'lesson24',
       component: WrapperLesson24
+    },
+    {
+      path: '/25',
+      name: 'lesson25',
+      component: WrapperLesson25
+    },
+    {
+      path: '/26',
+      name: 'lesson26',
+      component: WrapperLesson26
+    },
+    {
+      path: '/27',
+      name: 'lesson27',
+      component: WrapperLesson27
+    },
+    {
+      path: '/28',
+      name: 'lesson28',
+      component: WrapperLesson28
+    },
+    {
+      path: '/29',
+      name: 'lesson29',
+      component: WrapperLesson29
     }
   ]
 })

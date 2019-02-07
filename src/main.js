@@ -94,11 +94,22 @@ new Vue({
 //Lesson 24. Wrapping Renderless Components
 //https://codesandbox.io/s/5z5056yoq4?from-embed
 
+//Lesson 25. Building an Element Query Component
 //https://codesandbox.io/s/20r8wnx44r?from-embed
+
+//Lesson 26. Compound Components and ProvideInject
 //https://codesandbox.io/s/jl6pz69ox3?from-embed
+
+//Lesson 27. Building a Compound Sortable List Component
 //https://codesandbox.io/s/o98y1l735y?from-embed
+
+//Lesson 28. Building a Search Select Data Bindings
 //https://codesandbox.io/s/ykypmk03xj?from-embed
+
+//Lesson 29. Building a Search Select Filtering
 //https://codesandbox.io/s/oozwlvk36?from-embed
+
+//Lesson 30. Building a Search Select Focus Management
 //https://codesandbox.io/s/o95oq681l6?from-embed
 //https://codesandbox.io/s/8n0mnm2v70?from-embed
 //https://codesandbox.io/s/n7mw5871v0?from-embed

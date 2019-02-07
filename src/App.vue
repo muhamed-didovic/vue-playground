@@ -100,6 +100,18 @@
           <li class="nav-item">
             <router-link class="nav-link" to="/25">25</router-link>
           </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/26">26</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/27">27</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/28">28</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/29">29</router-link>
+          </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
           <input
