@@ -111,7 +111,15 @@ new Vue({
 
 //Lesson 30. Building a Search Select Focus Management
 //https://codesandbox.io/s/o95oq681l6?from-embed
+
+//Lesson 31. Building a Search Select Making It Controlled
 //https://codesandbox.io/s/8n0mnm2v70?from-embed
+
+//Lesson 32. Building a Search Select Keyboard Navigation
 //https://codesandbox.io/s/n7mw5871v0?from-embed
+
+//Lesson 33. Building a Search Select Click Outside Component
 //https://codesandbox.io/s/w66mzknr27?from-embed
+
+//Lesson 34. Building a Search Select Integrating Popper.js
 //https://codesandbox.io/s/vyxl1z5pp5?from-embed

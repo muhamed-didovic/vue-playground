@@ -112,6 +112,21 @@
           <li class="nav-item">
             <router-link class="nav-link" to="/29">29</router-link>
           </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/30">30</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/31">31</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/32">32</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/33">33</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/34">34</router-link>
+          </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
           <input
